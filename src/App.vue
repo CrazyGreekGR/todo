@@ -1,12 +1,14 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import InputBox from "@/components/inputBox.vue"
+</script>
 
 <template>
-  <h1>BIG THINGS ARE COMING :D</h1>
+  <InputBox />
 </template>
 
 <style>
 body {
-  background-color: darkblue;
+  background-color: #190f1f;
   color: white;
   font-family: Roboto,serif;
 }
