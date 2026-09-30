@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-
+  <h1>BIG THINGS ARE COMING :D</h1>
 </template>
 
 <style>
