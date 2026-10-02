@@ -33,6 +33,6 @@ input:checked {
 }
 .tdiOverall:has(input:checked) p {
   text-decoration: line-through;
-  color: #a1a1a1;
+  color: #6c6c6c;
 }
 </style>
